@@ -1,5 +1,5 @@
 # react.apple.signin
 react apple signin implementation
 
-- using React Modeule
+- using React module
 - backend: node/expressJS
